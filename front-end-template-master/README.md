@@ -2,7 +2,7 @@
 
 ## Description
 ```
-A brief description of your project
+This is my attempt at completing the core req1uirements for Code Louisville's Front End Web Developer Project. This has been tested on Mac, PC, and iPhone, and seems to be responsive. Images and text adjust to the browser size. 
 
 ```
 
@@ -12,20 +12,23 @@ A brief description of your project
 ```
 The class(es) I created are:
 
-1. class name ex( .main-info-section )
-.. what class does, ex( adds padding & changes background color of .main-info-section )
+1. Main Header( .main-header )
+The Main Header adds padding, a background color, and an image uploaded to the server. 
 
-2.
 
+2. Primary Content ( .primary-content )
+This includes the attributes of the header and footer, as well as centering the text of those)
+
+3. Callout ( .callout)
+This is an element of my webpage that encourages those viewing to interact with the site with CTAs. Also adds borders, padding, margins, and in-line block. 
 ```
 
 
 
 ## Custom JavaScript Functions
 ```
-The javascript functions I created are:
+The javascript function I created was:
 
-1. function name ex( animate() )
-.. what function does ex( animate() is used to move the elements in the info div across the screen)
+1. An Alert Button which prompts those visiting this website to click "OK" in order to proceed. Also serves as a welcome message. 
 
 ```
