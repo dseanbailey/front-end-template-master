@@ -2,7 +2,7 @@
 
 ## Description
 ```
-This is my attempt at completing the core req1uirements for Code Louisville's Front End Web Developer Project. This has been tested on Mac, PC, and iPhone, and seems to be responsive. Images and text adjust to the browser size. 
+This is my attempt at completing the core req1uirements for Code Louisville's Front End Web Developer Project. This has been tested on Mac, PC, and iPhone, and seems to be responsive. Images and text adjust to the browser size. It works on Safari and Chrome by simply launching the index file. 
 
 ```
 
