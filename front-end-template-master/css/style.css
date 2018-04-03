@@ -167,3 +167,63 @@ a:active {
   display: table;
   clear: both;
 }
+
+/* Media Queries Begin Here ------------------ */
+
+@media (max-width: 960px) {
+    body {
+      background: lightgrey;
+  }
+    p {
+      color: white;
+  }
+}
+
+@media (max-width: 480px) {
+    body {
+      background: pink;
+    }
+p {
+      color: white;
+  }
+}
+
+/* This Media Query Makes the content in the Primary and Secondary Divs more spread out when the viewport gets to 1024 pixels or narrower  ------------------ */
+@media (max-width: 1024px) {
+  .primary-content,
+  .secondary-content {
+      width: 90%;
+   }
+}
+
+
+/* This Media Query states that when the browser is resized to 768 pixels or lower, the main content areas are no longer too narrow for the best readibility ------------------ */
+
+@media (max-width: 768px) {
+  .primary-content,
+  .secondary-content {
+      width: 100%;
+      padding: 20px;
+      border: none;
+    }
+}
+
+  .main-header {
+    max-height: 380px;
+    padding: 50px 25px 0;
+  {
+    
+  .title {
+      font-size: 1.3rem;
+      border: none;
+  }
+    
+  .h1 {
+      font-size: 5rem;
+      line-height: 1.1;
+    }
+}
+  
+  /* Media Queries End Here ------------------ */
+
+
