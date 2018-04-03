@@ -2,7 +2,7 @@
 
 ## Description
 ```
-This is my attempt at completing the core req1uirements for Code Louisville's Front End Web Developer Project. This has been tested on Mac, PC, and iPhone, and most modern Android devices and is responsive to a variety of different size screens and viewports. Images and text adjust to the browser size. It works on Safari and Chrome by simply launching the index file. 
+This is my Code Louisville Front End Web Developer Final Project. This has been tested on Mac, PC, iPhone, and most modern Android devices and is responsive to a variety of different size screens and viewports. I also used the Chrome Developer Tools to test it on several different devices. Images and text adjust to the browser size. It works on Safari and Chrome by simply launching the index file. 
 
 ```
 
