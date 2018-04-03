@@ -2,4 +2,4 @@
 
 
 let d = new Date();
-document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
+document.body.innerHTML = "<h1>Howdy! You're On The Verge Of Discovering More About Louisville's ECLECTIC and AMAZING Music Scene! When You're Ready, Just Click OK!!! You are visiting this website on:" + d</h1>"
