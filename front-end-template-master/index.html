@@ -8,6 +8,8 @@
     <header id="top" class="main-header">
       <span class="title">Your Online Hub For Louisville Music</span>
       <h1>Louisville MUSICulture</h1>
+    </header>
+    
 		<div class="primary-content t-border">
 			<p class="intro">
 				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -58,17 +60,41 @@
             
             </ol>
           </div>
-        </div><!-- End .secondary-content -->
-        
-       
+        </div><!-- End of .secondary-content -->
     
+    
+    <h4>Join Our Mailing List And Drop Us A Line!</h4>
+    
+    <!-- This is the beginning of the email mailing list form  -->
+          <form action="/louisville-musiculture-mailing-list" method="post">
+          <div>
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="user_name">
+          </div>
+          <div>
+              <label for="mail">E-mail:</label>
+              <input type="email" id="mail" name="user_mail">
+          </div>
+          <div>
+              <label for="msg">Message:</label>
+              <textarea id="msg" name="user_message"></textarea>
+          </div>
+            
+            <div class="button">
+        <button type="submit">Send your message</button>
+      </div>  
+</form>
+    
+      <!-- End of form element -->
+        
+           
         <!-- This is the beginning of the JavaScript  -->
         <script>
             let d = new Date();
-            alert("Howdy! You're On The Verge Of Discovering More About Louisville's ECLECTIC and AMAZING Music Scene! When You're Ready, Just Click OK!!!" + d );
+            alert("Howdy! You're On The Verge Of Discovering More About Louisville's ECLECTIC and AMAZING Music Scene! When You're Ready, Just Click OK!!! You are visiting this website on:" + d );
         </script>
         
-        <!-- This is the end of the JavaScript  -->
+        <!-- This is the beginning of the JavaScript  -->
         
     
     
